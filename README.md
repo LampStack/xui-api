@@ -5,7 +5,7 @@
 
 <b>with this class, You are able to control any x-ui panel.</b>
 
--------------------------------------------------------
+<img src="https://user-images.githubusercontent.com/72719359/169643297-d6ec554b-5980-4c54-8d67-23319763436b.png">
 
 <h3>- How To Run X-UI On Your Server👇🏻</h3>
 
@@ -23,7 +23,7 @@
 4- Now You have to open this link on your browser to see the X-UI login page : <b>\<YOUR-SERVER-IP>:54321</b>
 <p>Your username and password both are : <b>admin</b>
 
--------------------------------------------------------
+<img src="https://user-images.githubusercontent.com/72719359/169643297-d6ec554b-5980-4c54-8d67-23319763436b.png">
 
 <h3>Contact Me</h3>
 
