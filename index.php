@@ -90,7 +90,7 @@ class v2Ray{
     
     public function genVmess($remark = null, $port = null, $traffic = 0){
         if($remark == null) $remark = $this->RandomString();
-        if($port == null) $port = rand(11111, 99999);
+        if($port == null) $port = rand(11111, 65535);
         $traffic = $traffic * 1024 * 1024 * 1024;
         $guidv4 = $this->guidv4();
         $ch = curl_init();
